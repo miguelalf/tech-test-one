@@ -235,7 +235,10 @@ Para poder revisar el codigo de los tres programas enviados se utilizo visual st
 1. Se remplazaron los espacios en blanco con `ctrl + H`, en el input **buscar** se ingresó `^\s*$\n` y en el de **remplazar** `\n`
 2. Se agrego a la configuración del workspace **PHP Intelephense** como el formatear default
 3. Se comentaron algunas y se agregó identación en algunas líneas problemáticas para mejor visualización.
-4. Se instalo la erramienta `md-to-pdf` y con un solo comando se migro el readme a un archivo pdf
+
+----
+
+- Se instaló la herramienta `md-to-pdf` y con un solo comando se migró el *README* a un archivo *PDF*
 
 ```bash
 npm i -g md-to-pdf
